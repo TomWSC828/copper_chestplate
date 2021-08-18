@@ -1,5 +1,5 @@
 # Copper Chestplate
-A Optifine Custom Armour
+An Optifine Custom Armour texturepack.
 
 Here is the GitHub for my project. 
 
