@@ -1,9 +1,11 @@
 # Copper Chestplate
 A Optifine Custom Armour
 
-Here is the GitHub for my project Edit it however you like.
+Here is the GitHub for my project. 
 
-**Creadits:**
+Edit it however you like.
+
+**Credits:**
 The armour texture is made by **@zozorob1** (this is his twitter handle)
 Made by **@flagz_**
 
